@@ -13,4 +13,4 @@
 **Репозиторий**: [GreenEyeAI-Sensors](https://github.com/GreenEye-AI/GreenEyeAI-Sensors)
 
 ### **Команда 4** — Автоматизация и корпус.
-**Репозиторий**: [GreenEyeAI-automation](https://github.com/GreenEye-AI/GreenEyeAI-automation)
+**Репозиторий**: [GreenEyeAI-Automation](https://github.com/GreenEye-AI/GreenEyeAI-Automation)
