@@ -3,7 +3,7 @@
 ## Команды
 
 ### **Команда 1** — Сервер.
-**Репозиторий**: [GreenEyeAI-Server](https://www.youtube.com/watch?v=j-iheFkstFQ)
+**Репозиторий**: [GreenEyeAI-Server](https://github.com/GreenEye-AI/GreenEyeAI-Server)
 
 ### **Команда 2** — AI и Интерфейс.
 **Репозиторий**: [GreenEyeAI-Interface](https://github.com/yulzolo/GreenEyeAI-Interface)
